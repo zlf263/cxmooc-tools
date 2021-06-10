@@ -11,6 +11,16 @@
 module.exports = {
     title: '超星慕课小工具',
     base: '/',
+    head: [
+        [
+            "script",
+            {
+              "data-ad-client": "ca-pub-8009073269666226",
+              async: true,
+              src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
+            }
+          ]
+    ],
     themeConfig: {
         nav: [
             {text: '首页', link: '/'},

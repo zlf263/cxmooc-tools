@@ -23,6 +23,7 @@ features:
 [![tampermonkey](https://img.shields.io/badge/tampermonkey-success-yellowgreen)](https://bbs.tampermonkey.net.cn/thread-61-1-1.html)
 
 
+<ArticleAd></ArticleAd>
 
 ## 关于超星慕课小工具
 > 2.1版本以后开始支持智慧树,2.2版本以后开始支持中国大学mooc 名字嘛不改了
